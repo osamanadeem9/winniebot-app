@@ -15,7 +15,7 @@ The motivation behind WinnieBot was to create a scalable web-based platform wher
 
 The application/project can be run on any Android/iOS device using the [Expo App](https://expo.io/tools). After installing the app, run the following link
 
-[exp://exp.host/@onadeem/winniebot](exp://exp.host/@onadeem/winniebot)
+[https://expo.io/@onadeem/winniebot](exp://exp.host/@onadeem/winniebot)
 
 ### OR
 
