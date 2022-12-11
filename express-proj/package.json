@@ -14,7 +14,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "node-wit": "^5.0.0",
     "public-ip": "^4.0.0",
     "request": "^2.88.0",
